@@ -12,7 +12,7 @@
 ## Orthogonal Finetuing
 | Title & Authors | TL;DR | Links |
 |:--|  :----: | :---:|
-[Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://arxiv.org/pdf/2106.09685) <br> Zeju Qiu, Weiyang Liu, Haiwen Feng, Yuxuan Xue, Yao Feng, Zhen Liu, Dan Zhang, Adrian Weller, Bernhard Schölkopf| $h = \mathbf{R} W_0x$ <br>   $\mathbf{R} \mathbf{R}^⊤ = \mathbf{I}$ <br> $R=(I+Q)(I−Q)^{−1}$ where $Q$ is a skew-symmetric matrix satisfying $Q=−Q^⊤$|[Github](https://github.com/microsoft/LoRA) <br> [Paper](https://arxiv.org/pdf/2106.09685)|
+[Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://arxiv.org/pdf/2106.09685) <br> Zeju Qiu, Weiyang Liu, Haiwen Feng, Yuxuan Xue, Yao Feng, Zhen Liu, Dan Zhang, Adrian Weller, Bernhard Schölkopf| $h = \mathbf{R} W_0x$ <br>   $\mathbf{R} \mathbf{R}^⊤ = \mathbf{I}$ <br> $R=(I+Q)(I−Q)^{−1}$ where $Q$ is a skew-symmetric matrix satisfying $Q=−Q^⊤$|[Github](https://github.com/Zeju1997/oft) <br> [Paper](https://arxiv.org/pdf/2306.07280)|
 
 
 [//]: #06/28
