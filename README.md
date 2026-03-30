@@ -39,6 +39,7 @@
 |:--|  :----: | :---:|
 [Asymmetry in Low-Rank Adapters of Foundation Models](https://arxiv.org/abs/2402.16842) <br> Jiacheng Zhu, Kristjan Greenewald, Kimia Nadjahi, Haitz Sáez de Ocáriz Borde, Rickard Brüel Gabrielsson, Leshem Choshen, Marzyeh Ghassemi, Mikhail Yurochkin, Justin Solomon| Tuning B is more impactful than tuning A|[Github](https://github.com/Jiacheng-Zhu-AIML/AsymmetryLoRA) <br> [Paper](https://arxiv.org/pdf/2402.16842)|
 
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - The first merge library where every operation is mathematically guaranteed to converge. Conflict-free merge for DataFrames, JSON, ML model weights & distributed agent state — powered by CRDTs.
 
 
 <!-- [//]: #06/28 -->
