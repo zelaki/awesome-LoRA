@@ -42,3 +42,4 @@
 
 
 <!-- [//]: #06/28 -->
+- **OneComp** — Unified PTQ pipeline with LoRA SFT post-process for accuracy recovery. [[Paper](https://arxiv.org/abs/2603.28845)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
